@@ -1,0 +1,25 @@
+# Water Cycle (Hydrologic Cycle)
+One-sentence takeaway: Earth’s water continuously moves and changes phase between ocean, land, ice, and atmosphere, redistributing heat and freshwater.
+
+What it is:
+A closed-loop system cycling water through evaporation, transpiration, condensation, cloud formation, precipitation (rain/snow/hail), infiltration, runoff, groundwater flow, and storage (oceans, lakes, glaciers, soil moisture, aquifers).
+
+How it works:
+Solar heating drives evaporation from oceans/land; plants add vapor via transpiration (together: evapotranspiration). Rising moist air cools adiabatically → condensation on aerosols → clouds → precipitation. At the surface, water partitions to runoff vs infiltration, recharging rivers/aquifers; ice and snow act as delayed reservoirs.
+
+Key terms:
+Evapotranspiration; Condensation nuclei; Infiltration; Percolation; Watershed; Baseflow; Residence time.
+
+Typical values/units:
+Atmospheric water vapor residence time ≈ days to ~two weeks; cloud droplet ~10 µm; raindrop ~0.5–6 mm.
+
+What you’ll see on maps/layers:
+• Satellite visible/IR: cloud fields, overshooting tops in deep convection.
+• Precip/radar: reflectivity cores, bright band in stratiform rain.
+• Soil-moisture/snow-water-equivalent layers: storage state.
+
+Common misconceptions:
+“The cycle is linear.” It’s not—multiple feedbacks/branching paths (e.g., sublimation, interception, groundwater-to-stream).
+
+Related topics:
+Clouds & microphysics; Runoff & flooding; Energy budget.

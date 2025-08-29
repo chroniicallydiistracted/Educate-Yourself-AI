@@ -1,0 +1,24 @@
+# Weather Fronts
+One-sentence takeaway: Fronts are boundaries between contrasting air masses that focus clouds, precipitation, and rapid weather changes.
+
+What it is:
+Interfaces—cold, warm, stationary, occluded—distinguished by thermal and density gradients.
+
+How it works:
+Lifting along fronts triggers cloud/precip formation; cold fronts favor narrow, sometimes severe bands; warm fronts favor broader stratiform precipitation; occlusions occur as cold air wraps around cyclones.
+
+Key terms:
+Baroclinic zone; Frontogenesis; Dryline (moisture boundary common in Plains).
+
+Typical values/units:
+Temperature contrasts often ≥5–10 °C across fronts.
+
+What you’ll see on maps/layers:
+• Radar: linear convective bands on cold fronts, wide stratiform shields on warm fronts.
+• Satellite: sharp cloud edges, comma-head structures with cyclones.
+
+Common misconceptions:
+“Fronts are lines.” Operationally drawn as lines, but physically occupy zones tens to hundreds of km wide.
+
+Related topics:
+Cyclogenesis; Jet streaks; CAPE/CIN.

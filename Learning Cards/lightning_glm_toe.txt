@@ -1,0 +1,23 @@
+# Lightning Basics & GLM/TOE
+One-sentence takeaway: Lightning is a rapid electrical discharge; GOES-R GLM detects optical flashes, enabling gridded energy metrics like TOE.
+
+What it is:
+Cloud-to-ground and intra-cloud discharges; GLM measures transient optical events from geostationary orbit.
+
+How it works:
+Charge separation in storms → breakdown; GLM clusters optical events into groups/flashes; TOE (Total Optical Energy) sums radiance over a grid/time window, approximating lightning activity density/intensity.
+
+Key terms:
+GLM event/group/flash; TOE; Detection efficiency; Parallax.
+
+Typical values/units:
+GLM nominal pixel size ~8–14 km (nadir to limb); TOE is an instrument-specific radiance sum over space/time windows.
+
+What you’ll see on maps/layers:
+Heatmap of TOE or flash-density; rapid increases (“lightning jumps”) may precede intensification.
+
+Common misconceptions:
+“GLM sees every strike.” It detects optical signatures; viewing geometry, clouds, and daytime background affect detection.
+
+Related topics:
+Thunderstorm lifecycle; Severe nowcasting.

@@ -1,0 +1,23 @@
+# Earth Orientation: Polar Motion & Length‑of‑Day (LOD)
+One-sentence takeaway: Small changes in Earth’s rotation and pole position occur due to angular‑momentum exchange with atmosphere and oceans.
+
+What it is:
+Polar motion (x,y) and LOD anomalies relative to UTC; needed for precise timing and pointing systems.
+
+How it works:
+Seasonal and episodic mass/wind changes shift Earth’s rotation axis and rate. Geophysical fluids exchange angular momentum with the solid Earth.
+
+Key terms:
+AAM (atmospheric angular momentum); Chandler wobble; UT1–UTC.
+
+Typical values/units:
+LOD variations on the order of milliseconds; polar motion on the order of milliarcseconds.
+
+What you’ll see on maps/layers:
+LOD anomaly timelines; polar‑motion plots; context callouts during major anomalies.
+
+Common misconceptions:
+“These changes affect daily life strongly.” Effects are tiny but important for precision applications.
+
+Related topics:
+GNSS/space geodesy; Seasonal cycles; QBO (conceptual coupling).

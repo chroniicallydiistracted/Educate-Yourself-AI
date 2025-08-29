@@ -1,0 +1,25 @@
+# Weather Radar: Reflectivity, Velocity, Dual-Pol
+One-sentence takeaway: Radar infers hydrometeor size/phase and wind via returned power and phase information.
+
+What it is:
+• Reflectivity (Z, dBZ): target size/number.
+• Velocity (V): motion along beam via Doppler shift.
+• Dual-pol (ZDR, KDP, ρhv): shape, orientation, and mixed-phase clues.
+
+How it works:
+Electromagnetic pulses scatter off precipitation; dual polarization compares horizontal vs vertical returns.
+
+Key terms:
+Bright band; Beam height/earth curvature; Range folding; Ground clutter.
+
+Typical values/units:
+Light rain ~20–30 dBZ; heavy ≥40 dBZ; big hail often ≥55 dBZ; KDP >1–2 °·km⁻¹ suggests intense rain.
+
+What you’ll see on maps/layers:
+Hook echoes, bowing segments, differential signatures for hail (low ZDR, high Z), debris (low ρhv).
+
+Common misconceptions:
+“Radar sees the ground truth at the surface.” Beam height increases with range; blockage/bright band can mislead.
+
+Related topics:
+QPE; Severe signatures; Nowcasting.

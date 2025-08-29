@@ -1,0 +1,23 @@
+# Meteors & Meteor Showers (Radiants & Rates)
+One-sentence takeaway: Annual meteor showers arise when Earth crosses debris streams, producing predictable radiant locations and peak rates.
+
+What it is:
+Swarms of meteoroids from parent comets/asteroids intersect Earth’s orbit; apparent origin point is the radiant in the sky.
+
+How it works:
+As Earth passes through the stream, encounter geometry and particle density set the zenithal hourly rate (ZHR). Moonlight and cloud cover reduce observed counts.
+
+Key terms:
+ZHR; Radiant RA/Dec; Parent body; Geocentric velocity.
+
+Typical values/units:
+Major showers peak ZHR from ~20 to 100+; sporadic background ~5–10/hr under dark skies.
+
+What you’ll see on maps/layers:
+Radiant maps; peak windows; moonlight interference index; observer‑location adjusted expectations.
+
+Common misconceptions:
+“ZHR equals what I’ll see.” ZHR assumes ideal dark, zenith radiant, and perfect conditions.
+
+Related topics:
+Zodiacal light; Light pollution; Twilight geometry.

@@ -1,0 +1,23 @@
+# Airglow‑Correct Twilight & Milky Way Windows
+One-sentence takeaway: Practical skywatching windows depend on twilight class, moon altitude/phase, and seasonal Milky Way geometry.
+
+What it is:
+A planning framework that combines astronomical darkness, moonlight, and galactic center position to forecast visibility.
+
+How it works:
+Compute sun/moon elevation vs time, mask windows with solar depression < −18°, and evaluate galactic center altitude for a given observer and season.
+
+Key terms:
+Astronomical twilight; Airmass; Galactic center RA/Dec.
+
+Typical values/units:
+Windows typically a few hours per night in season; airmass increases rapidly at low altitude.
+
+What you’ll see on maps/layers:
+Per‑location time bars for darkness vs moon; galactic center rise/set charts; cloud cover overlays.
+
+Common misconceptions:
+“New Moon guarantees great views.” Clouds, haze, and light pollution still dominate outcomes.
+
+Related topics:
+Night‑sky brightness; Zodiacal light; Twilight geometry.

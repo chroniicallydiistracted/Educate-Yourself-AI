@@ -1,0 +1,23 @@
+# Carbon Cycle
+One-sentence takeaway: Carbon moves among atmosphere, oceans, land biosphere, and geologic reservoirs via physical, chemical, and biological processes.
+
+What it is:
+Exchanges through photosynthesis/respiration, ocean-air fluxes, weathering, burial, and volcanic return.
+
+How it works:
+Photosynthesis fixes CO₂ into biomass; respiration and decomposition return CO₂; oceans dissolve CO₂ and store it; lithification and volcanism act on geologic timescales.
+
+Key terms:
+Net primary production (NPP); Solubility pump; Biological pump.
+
+Typical values/units:
+Fluxes reported in PgC·yr⁻¹; concentrations in ppm.
+
+What you’ll see on maps/layers:
+Vegetation indices (NDVI), SST patterns affecting CO₂ solubility, fire activity (emissions).
+
+Common misconceptions:
+“Forests are always carbon sinks.” Disturbance/seasonality can invert sink/source behavior.
+
+Related topics:
+Greenhouse effect; Photosynthesis; Ocean circulation.

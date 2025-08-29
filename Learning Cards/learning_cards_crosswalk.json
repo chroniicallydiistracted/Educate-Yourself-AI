@@ -1,0 +1,794 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2025-08-28T17:05:47.603057Z",
+  "item_count": 30,
+  "items": [
+    {
+      "slug": "airglow-gravity-waves",
+      "title": "Airglow & Mesospheric Gravity Waves",
+      "recommended_layers": [
+        {
+          "id": "layer.airglow_visibility",
+          "purpose": "Airglow visibility windows",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.viirs_dnb_night",
+          "purpose": "DNB examples under dark conditions",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Noctilucent clouds",
+        "Ionosphere",
+        "Night-sky brightness"
+      ]
+    },
+    {
+      "slug": "astronomy-windows-milky-way-airglow-moon",
+      "title": "Airglow\u2011Correct Twilight & Milky Way Windows",
+      "recommended_layers": [
+        {
+          "id": "layer.airglow_visibility",
+          "purpose": "Airglow visibility windows",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.viirs_dnb_night",
+          "purpose": "DNB examples under dark conditions",
+          "priority": 3,
+          "notes": ""
+        },
+        {
+          "id": "layer.milky_way_window",
+          "purpose": "Galactic center visibility",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.twilight_classes",
+          "purpose": "Darkness windows",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.moonlight_mask",
+          "purpose": "Moon interference",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Night\u2011sky brightness",
+        "Zodiacal light",
+        "Twilight geometry"
+      ]
+    },
+    {
+      "slug": "aurora-physics-emission-lines",
+      "title": "Aurora Physics: Emission Lines & Colors",
+      "recommended_layers": [
+        {
+          "id": "layer.auroral_oval",
+          "purpose": "Morphology and color legend overlay",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.kp_index",
+          "purpose": "Activity proxy",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Kp/AE",
+        "Substorms",
+        "Ionosphere"
+      ]
+    },
+    {
+      "slug": "coronal-holes-high-speed-streams",
+      "title": "Coronal Holes & High-Speed Streams (HSS)",
+      "recommended_layers": [
+        {
+          "id": "layer.euv_193",
+          "purpose": "Identify coronal holes",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.hss_arrival_windows",
+          "purpose": "Projected HSS/CIR timing",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.kp_index",
+          "purpose": "Expected geomagnetic response",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Solar wind",
+        "IMF/Bz",
+        "Kp/Dst"
+      ]
+    },
+    {
+      "slug": "cosmic-rays-forbush-decreases",
+      "title": "Cosmic Rays & Forbush Decreases",
+      "recommended_layers": [
+        {
+          "id": "layer.neutron_monitor",
+          "purpose": "Count rates",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.kp_index",
+          "purpose": "Context coupling",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Solar cycle",
+        "CMEs",
+        "Radiation environment"
+      ]
+    },
+    {
+      "slug": "day-night-cloud-detection-dnb-thermal",
+      "title": "Day\u2013Night Cloud Detection (DNB & Thermal Differencing)",
+      "recommended_layers": [
+        {
+          "id": "layer.viirs_dnb_night",
+          "purpose": "Moonlit cloud detection",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.thermal_split_window",
+          "purpose": "3.9\u201311 \u00b5m fog/low cloud",
+          "priority": 1,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "tec"
+      ],
+      "related_cards": [
+        "GOES/ABI bands",
+        "Fog types",
+        "QPE limitations"
+      ]
+    },
+    {
+      "slug": "earth-orientation-polar-motion-lod",
+      "title": "Earth Orientation: Polar Motion & Length\u2011of\u2011Day (LOD)",
+      "recommended_layers": [
+        {
+          "id": "layer.lod_anomaly",
+          "purpose": "LOD timeline",
+          "priority": 3,
+          "notes": ""
+        },
+        {
+          "id": "layer.polar_motion",
+          "purpose": "x,y path",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "GNSS/space geodesy",
+        "Seasonal cycles",
+        "QBO (conceptual coupling"
+      ]
+    },
+    {
+      "slug": "eclipses-transit-geometry",
+      "title": "Eclipses (Solar/Lunar) & Transit Geometry",
+      "recommended_layers": [
+        {
+          "id": "layer.eclipse_path",
+          "purpose": "Ground track & obscuration",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.eclipse_contact_times",
+          "purpose": "Local C1\u2013C4 markers",
+          "priority": 1,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Twilight",
+        "Solar geometry",
+        "Tides (gravitational context"
+      ]
+    },
+    {
+      "slug": "f107-solar-radio-flux",
+      "title": "F10.7 cm Solar Radio Flux",
+      "recommended_layers": [
+        {
+          "id": "layer.f107_flux",
+          "purpose": "Daily and 81-day mean",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.sunspot_number",
+          "purpose": "Correlative context",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "f107_flux"
+      ],
+      "related_cards": [
+        "Sunspot number",
+        "TEC",
+        "Thermosphere density"
+      ]
+    },
+    {
+      "slug": "geomagnetic-indices-kp-dst-ae-auroral-oval",
+      "title": "Geomagnetic Indices (Kp, Dst, AE) & Auroral Oval",
+      "recommended_layers": [
+        {
+          "id": "layer.kp_index",
+          "purpose": "Global activity index",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.dst_index",
+          "purpose": "Ring current strength",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.auroral_oval",
+          "purpose": "Visibility bands",
+          "priority": 1,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "kp_index",
+        "dst_index",
+        "ae_index"
+      ],
+      "related_cards": [
+        "IMF/Bz",
+        "Solar wind",
+        "Aurora physics"
+      ]
+    },
+    {
+      "slug": "imf-bz",
+      "title": "Interplanetary Magnetic Field (IMF) & Bz",
+      "recommended_layers": [
+        {
+          "id": "layer.l1_imf_bz",
+          "purpose": "Real-time Bz/clock angle",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.auroral_oval",
+          "purpose": "Coupling impact context",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "imf_bz"
+      ],
+      "related_cards": [
+        "Solar wind",
+        "Kp/Dst",
+        "Auroral oval"
+      ]
+    },
+    {
+      "slug": "ionospheric-tec-scintillation",
+      "title": "Ionospheric TEC & Scintillation",
+      "recommended_layers": [
+        {
+          "id": "layer.tec_global",
+          "purpose": "TEC maps",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.scintillation_roti",
+          "purpose": "ROTI/S4 hotspots",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.gnss_error_mask",
+          "purpose": "GNSS accuracy risk",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "tec"
+      ],
+      "related_cards": [
+        "F10.7",
+        "Kp/AE",
+        "GNSS accuracy"
+      ]
+    },
+    {
+      "slug": "lagrange-points-spacecraft-monitors",
+      "title": "Lagrange Points & Spacecraft Monitors (L1/L2)",
+      "recommended_layers": [
+        {
+          "id": "layer.lagrange_points",
+          "purpose": "L1/L2 positions & monitors",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Solar wind",
+        "EUV imagery",
+        "Ephemerides"
+      ]
+    },
+    {
+      "slug": "lunar-geometry-distance-libration-illumination",
+      "title": "Lunar Geometry: Distance, Libration & Illumination",
+      "recommended_layers": [
+        {
+          "id": "layer.moon_distance",
+          "purpose": "Perigee/apogee",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.lunar_phase",
+          "purpose": "Illumination %",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.libration",
+          "purpose": "Libration diagrams",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Tides",
+        "Planetary positions",
+        "Night\u2011sky brightness"
+      ]
+    },
+    {
+      "slug": "magnetopause-bow-shock-standoff",
+      "title": "Magnetopause & Bow Shock Stand\u2011off Distance",
+      "recommended_layers": [
+        {
+          "id": "layer.magnetopause_standoff",
+          "purpose": "Stand-off radius estimate",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.l1_density_temp",
+          "purpose": "Dynamic pressure inputs",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Solar wind",
+        "Bz",
+        "Geospace hazards"
+      ]
+    },
+    {
+      "slug": "meteors-meteor-showers",
+      "title": "Meteors & Meteor Showers (Radiants & Rates)",
+      "recommended_layers": [
+        {
+          "id": "layer.meteor_radiants",
+          "purpose": "Radiant positions",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.meteor_zhr",
+          "purpose": "ZHR forecast windows",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.moonlight_mask",
+          "purpose": "Moon interference",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Zodiacal light",
+        "Light pollution",
+        "Twilight geometry"
+      ]
+    },
+    {
+      "slug": "night-sky-brightness-light-pollution",
+      "title": "Night\u2011Sky Brightness & Light Pollution",
+      "recommended_layers": [
+        {
+          "id": "layer.light_pollution_viirs",
+          "purpose": "Radiance map",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.moonlight_mask",
+          "purpose": "Moon elevation phase",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Zodiacal light",
+        "Aurora visibility",
+        "Airglow"
+      ]
+    },
+    {
+      "slug": "noctilucent-clouds-pmc",
+      "title": "Noctilucent Clouds (Polar Mesospheric Clouds)",
+      "recommended_layers": [
+        {
+          "id": "layer.nlc_probability",
+          "purpose": "Occurrence probability",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.twilight_classes",
+          "purpose": "Twilight geometry",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Airglow",
+        "Gravity waves",
+        "Light pollution"
+      ]
+    },
+    {
+      "slug": "planetary-positions-conjunctions-occultations",
+      "title": "Planetary Positions, Conjunctions & Occultations",
+      "recommended_layers": [
+        {
+          "id": "layer.planets_ephemeris",
+          "purpose": "Positions/trajectories",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.horizon_plot",
+          "purpose": "Per-observer view",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Zodiacal light",
+        "Twilight",
+        "Lunar geometry"
+      ]
+    },
+    {
+      "slug": "proton-events-polar-cap-absorption",
+      "title": "Proton Events & Polar Cap Absorption (PCA)",
+      "recommended_layers": [
+        {
+          "id": "layer.pca_polar_absorption",
+          "purpose": "Polar absorption mask",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.proton_flux",
+          "purpose": ">10 MeV proton flux",
+          "priority": 1,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "R\u2011scale blackouts",
+        "Kp/Dst",
+        "Radiation belts"
+      ]
+    },
+    {
+      "slug": "qbo-planetary-wave-coupling",
+      "title": "Planetary Waves & Quasi\u2011Biennial Oscillation (QBO) (Concept)",
+      "recommended_layers": [
+        {
+          "id": "layer.qbo_phase",
+          "purpose": "30 hPa QBO index",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "ENSO",
+        "MJO",
+        "Seasonal outlooks"
+      ]
+    },
+    {
+      "slug": "radiation-belts-energetic-electron-flux",
+      "title": "Radiation Belts & Energetic Electron Flux",
+      "recommended_layers": [
+        {
+          "id": "layer.geos_electron_flux",
+          "purpose": "Energetic electron flux",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.radiation_belt_model",
+          "purpose": "Model belt extents",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Kp/Dst",
+        "SEP events",
+        "Thermosphere density"
+      ]
+    },
+    {
+      "slug": "solar-cycle-sunspot-number",
+      "title": "Solar Cycle & Sunspot Number",
+      "recommended_layers": [
+        {
+          "id": "layer.sunspot_number",
+          "purpose": "Timeline of daily & smoothed SSN",
+          "priority": 2,
+          "notes": ""
+        },
+        {
+          "id": "layer.euv_193",
+          "purpose": "EUV imagery for active regions/coronal holes",
+          "priority": 3,
+          "notes": ""
+        },
+        {
+          "id": "layer.f107_flux",
+          "purpose": "F10.7 as corroborating proxy",
+          "priority": 3,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "sunspot_number"
+      ],
+      "related_cards": [
+        "F10.7 cm flux",
+        "IMF/Bz",
+        "Kp/Dst",
+        "Radiation belts"
+      ]
+    },
+    {
+      "slug": "solar-euv-radio-blackouts-rscale",
+      "title": "Solar EUV & Radio Blackouts (R\u2011Scale Concept)",
+      "recommended_layers": [
+        {
+          "id": "layer.rscale_blackout_mask",
+          "purpose": "Dayside absorption impact",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.goes_xray_flux",
+          "purpose": "Flare class timeline",
+          "priority": 1,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Flares/CMEs",
+        "TEC",
+        "Scintillation"
+      ]
+    },
+    {
+      "slug": "solar-terminator-twilight",
+      "title": "Solar Terminator & Twilight Geometry",
+      "recommended_layers": [
+        {
+          "id": "layer.terminator",
+          "purpose": "Day\u2013night boundary",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.twilight_classes",
+          "purpose": "Civil/nautical/astronomical",
+          "priority": 1,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Eclipses",
+        "Night\u2011sky brightness",
+        "Planetary positions"
+      ]
+    },
+    {
+      "slug": "solar-wind-l1",
+      "title": "Solar Wind at L1 (Speed, Density, Temperature)",
+      "recommended_layers": [
+        {
+          "id": "layer.l1_solar_wind_speed",
+          "purpose": "Upstream speed",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.l1_density_temp",
+          "purpose": "Density/temperature/pressure",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.magnetopause_standoff",
+          "purpose": "Compression risk",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "l1_solar_wind_speed"
+      ],
+      "related_cards": [
+        "IMF/Bz",
+        "Magnetopause stand\u2011off",
+        "Kp/Dst"
+      ]
+    },
+    {
+      "slug": "substorms-auroral-dynamics",
+      "title": "Substorms & Auroral Dynamics",
+      "recommended_layers": [
+        {
+          "id": "layer.ae_al_au",
+          "purpose": "Electrojet indices",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.auroral_oval",
+          "purpose": "Morphology changes",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [
+        "ae_index"
+      ],
+      "related_cards": [
+        "Kp/AE",
+        "Bz",
+        "Aurora emissions"
+      ]
+    },
+    {
+      "slug": "thermosphere-density-satellite-drag",
+      "title": "Thermosphere Density & Satellite Drag",
+      "recommended_layers": [
+        {
+          "id": "layer.thermosphere_density_index",
+          "purpose": "Density/drag multipliers",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.f107_flux",
+          "purpose": "EUV proxy",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Kp/Dst",
+        "EUV/F10.7",
+        "Radiation belts"
+      ]
+    },
+    {
+      "slug": "tides-spring-neap-surge-context",
+      "title": "Tides: Spring/Neap, Perigee Effects & Storm Surge Context",
+      "recommended_layers": [
+        {
+          "id": "layer.tide_predictions",
+          "purpose": "Astronomical tides",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.surge_model",
+          "purpose": "Storm surge context",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Coastal flooding",
+        "Cyclones",
+        "Wave runup"
+      ]
+    },
+    {
+      "slug": "zodiacal-light-ecliptic-geometry",
+      "title": "Zodiacal Light & Ecliptic Geometry",
+      "recommended_layers": [
+        {
+          "id": "layer.ecliptic_path",
+          "purpose": "Ecliptic on sky",
+          "priority": 1,
+          "notes": ""
+        },
+        {
+          "id": "layer.light_pollution_viirs",
+          "purpose": "Mask by radiance",
+          "priority": 2,
+          "notes": ""
+        }
+      ],
+      "recommended_metrics": [],
+      "related_cards": [
+        "Twilight geometry",
+        "Light pollution",
+        "Planetary positions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Severe Convective Hazards (Tornado, Hail, Wind)
+One-sentence takeaway: Severe storms produce destructive winds, large hail, and tornadoes when instability and wind shear align.
+
+What it is:
+• Tornado: rapidly rotating column of air in contact with ground.
+• Hail: ice stones from strong updrafts.
+• Severe wind: damaging downdrafts/outflow.
+
+How it works:
+Deep shear organizes storms (supercells/squall lines); rear-flank downdrafts, mesocyclones, and cold pools modulate hazard type.
+
+Key terms:
+Hook echo; Debris ball; BWER; RFD/FFD; Bow echo; Rear-inflow jet.
+
+Typical values/units:
+Severe hail ≥1 inch (US); severe wind ≥58 mph.
+
+What you’ll see on maps/layers:
+Radar: TVS/velocity couplets, CC drop for debris, high ZDR columns; satellite: overshooting tops, cold-U patterns; GLM: flash rates.
+
+Common misconceptions:
+“High dBZ always means tornado.” Tornado detection relies on velocity/dual-pol and corroborating signatures.
+
+Related topics:
+CAPE & shear; Watches/Warnings.

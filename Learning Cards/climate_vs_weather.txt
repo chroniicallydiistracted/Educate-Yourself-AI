@@ -1,0 +1,23 @@
+# Climate vs Weather
+One-sentence takeaway: Weather is short-term atmospheric conditions; climate is the statistical distribution of those conditions over decades.
+
+What it is:
+Timescale distinction fundamental to interpretation.
+
+How it works:
+Climate normals typically computed over 30-year reference periods; variability and extremes are part of both but contextualized differently.
+
+Key terms:
+Climatology; Anomaly; Variability; Extremes.
+
+Typical values/units:
+Normals/percentiles; anomalies in °C, mm, etc.
+
+What you’ll see on maps/layers:
+Anomaly maps (temperature, precipitation), percentile ranks.
+
+Common misconceptions:
+“A cold day disproves warming.” Single events don’t describe long-term statistics.
+
+Related topics:
+ENSO; Teleconnections; Drought indices.

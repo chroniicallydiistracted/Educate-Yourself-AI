@@ -1,0 +1,23 @@
+# Atmospheric Rivers (ARs)
+One-sentence takeaway: Long, narrow corridors of concentrated water-vapor transport deliver extreme precipitation, especially to west-coast mountains.
+
+What it is:
+High integrated vapor transport (IVT) plumes, often tied to midlatitude cyclones.
+
+How it works:
+Moisture convergence + orographic lift → heavy precipitation; AR strength graded by IVT and duration.
+
+Key terms:
+IVT (kg·m⁻¹·s⁻¹); Orographic enhancement; Pineapple Express (colloquial subset).
+
+Typical values/units:
+Strong ARs often IVT >500–700 kg·m⁻¹·s⁻¹.
+
+What you’ll see on maps/layers:
+Water-vapor imagery; IVT analyses; snowline rising with warm ARs.
+
+Common misconceptions:
+“All ARs are floods.” Impact depends on soil, freezing level, duration, and terrain.
+
+Related topics:
+Snowpack; Flooding; Cyclones.

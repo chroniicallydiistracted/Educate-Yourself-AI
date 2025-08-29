@@ -1,0 +1,23 @@
+# Jet Streams
+One-sentence takeaway: Narrow, fast westerly flows aloft that steer storms and modulate temperature and precipitation patterns.
+
+What it is:
+Polar and subtropical jets near the tropopause formed by thermal wind balance across strong horizontal temperature gradients.
+
+How it works:
+Jet streak entrance/exit regions create divergence/convergence aloft, encouraging cyclone growth or decay.
+
+Key terms:
+Tropopause; Thermal wind; Ageostrophic circulation; Jet streak.
+
+Typical values/units:
+Core speeds often 30–70 m·s⁻¹; altitude ~9–12 km.
+
+What you’ll see on maps/layers:
+200–300 hPa wind analyses; satellite water-vapor bands tracing jet-level dynamics.
+
+Common misconceptions:
+“Jet streams are fixed.” They meander, split, and shift seasonally.
+
+Related topics:
+Cyclones; Fronts; Rossby waves.

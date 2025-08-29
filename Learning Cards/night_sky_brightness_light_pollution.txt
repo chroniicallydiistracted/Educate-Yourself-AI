@@ -1,0 +1,23 @@
+# Night‑Sky Brightness & Light Pollution
+One-sentence takeaway: Sky brightness from artificial lights and the Moon sets the visibility of faint celestial features.
+
+What it is:
+Measures of radiance/magnitude that quantify sky glow; Bortle classes summarize observing conditions.
+
+How it works:
+Upward‑scattered light and atmospheric aerosols raise background brightness; moon phase and altitude add natural light.
+
+Key terms:
+VIIRS DNB radiance; mag·arcsec⁻²; Bortle scale.
+
+Typical values/units:
+Dark‑sky sites ~21–22 mag·arcsec⁻²; urban cores <18 mag·arcsec⁻² (brighter).
+
+What you’ll see on maps/layers:
+Radiance maps; Bortle approximations; moonlight masks; cloud overlays.
+
+Common misconceptions:
+“Clouds always harm observations equally.” Clouds can reflect city light and worsen urban glow more than rural sites.
+
+Related topics:
+Zodiacal light; Aurora visibility; Airglow.

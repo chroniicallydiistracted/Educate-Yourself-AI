@@ -1,0 +1,23 @@
+# Solar Terminator & Twilight Geometry
+One-sentence takeaway: The Sun’s depression angle below the horizon defines civil, nautical, and astronomical twilight and controls sky brightness.
+
+What it is:
+A geometric classification of twilight by solar elevation: civil (0° to −6°), nautical (−6° to −12°), astronomical (−12° to −18°).
+
+How it works:
+As the Sun drops, scattered light diminishes; astronomical twilight ends near −18°, after which the sky is darkest under clear, moonless conditions.
+
+Key terms:
+Solar depression angle; Golden hour; Blue hour.
+
+Typical values/units:
+Angles in degrees; times depend on latitude/season.
+
+What you’ll see on maps/layers:
+Terminator line on maps; per‑location twilight class shading; photography windows.
+
+Common misconceptions:
+“Astronomical darkness starts at sunset.” Darkness progresses through twilight stages.
+
+Related topics:
+Eclipses; Night‑sky brightness; Planetary positions.

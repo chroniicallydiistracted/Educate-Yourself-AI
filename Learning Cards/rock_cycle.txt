@@ -1,0 +1,23 @@
+# Rock Cycle
+One-sentence takeaway: Rocks transform among igneous, sedimentary, and metamorphic types through melting, crystallization, weathering, lithification, and metamorphism.
+
+What it is:
+A conceptual cycle linking internal heat and surface processes.
+
+How it works:
+Magma cools → igneous; weathering/erosion → sediments → lithified into sedimentary; heat/pressure/fluids alter rocks → metamorphic; any type can be remelted or reworked.
+
+Key terms:
+Clastic; Felsic/mafic; Metamorphic grade.
+
+Typical values/units:
+Metamorphism typically at elevated P–T conditions vs surface.
+
+What you’ll see on maps/layers:
+Topography, geologic maps, landslide susceptibility overlays.
+
+Common misconceptions:
+“It’s a simple loop.” Paths branch and skip steps depending on environment.
+
+Related topics:
+Plate tectonics; Erosion; Volcanoes.

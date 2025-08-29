@@ -1,0 +1,20 @@
+# Drought, Heat & Wet-Bulb Temperature
+One-sentence takeaway: Prolonged moisture deficits and heat waves stress ecosystems and people; wet-bulb temperature gauges heat stress under humidity.
+
+What it is:
+Drought indices (e.g., SPI, PDSI), soil-moisture anomalies; wet-bulb combines temperature and humidity.
+
+How it works:
+High pressure, subsidence, and feedbacks (dry soils → less evaporative cooling) amplify heat; wet-bulb near ~35 °C approaches human survivability limits for sustained exposure.
+
+Key terms:
+Heat index; Urban heat island; Evaporative demand.
+
+What you’ll see on maps/layers:
+Temperature anomalies, soil-moisture deficits, evapotranspiration demand.
+
+Common misconceptions:
+“Low humidity always safer.” Extreme heat with dry air still dangerous.
+
+Related topics:
+Fire weather; Lightning; Drought indices.

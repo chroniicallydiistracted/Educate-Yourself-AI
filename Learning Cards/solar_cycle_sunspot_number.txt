@@ -1,0 +1,23 @@
+# Solar Cycle & Sunspot Number
+One-sentence takeaway: Solar magnetic activity varies on ~11-year cycles, tracked by sunspot counts that correlate with space-weather risk.
+
+What it is:
+A quasi-periodic cycle in the Sun’s magnetic field strength and polarity, observed through sunspots (cooler, magnetically intense regions). The 11-year cycle (Schwabe) nests within a 22-year magnetic polarity (Hale) cycle.
+
+How it works:
+The solar dynamo in the convection zone amplifies and reorganizes magnetic fields. Twisted fields emerge as sunspot pairs near mid-latitudes and migrate equatorward as the cycle progresses (“butterfly diagram”). Activity rises toward solar maximum and falls toward minimum.
+
+Key terms:
+Sunspot number (SSN); Wolf number; Solar maximum/minimum; Butterfly diagram; Hale cycle.
+
+Typical values/units:
+Daily/Monthly SSN (dimensionless). 13‑month smoothed SSN is a common metric. Cycle lengths ~9–14 years.
+
+What you’ll see on maps/layers:
+Sunspot counts/indices timelines; EUV images with more active regions near maximum; increased flare/CME frequency.
+
+Common misconceptions:
+“Solar maximum equals constant storms.” Activity is elevated on average, but storms occur intermittently.
+
+Related topics:
+F10.7 cm flux; IMF/Bz; Kp/Dst; Radiation belts.

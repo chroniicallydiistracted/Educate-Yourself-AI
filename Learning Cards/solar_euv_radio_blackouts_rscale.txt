@@ -1,0 +1,23 @@
+# Solar EUV & Radio Blackouts (R‑Scale Concept)
+One-sentence takeaway: Strong solar flares boost X‑ray/EUV output, causing short‑wave radio absorption on the dayside (radio blackouts).
+
+What it is:
+Operational categorization of HF communication impacts based on solar X‑ray flux levels (R1–R5).
+
+How it works:
+Enhanced X‑ray/EUV increases ionization in the D‑region ionosphere, absorbing HF signals and degrading GNSS accuracy on the sunlit hemisphere.
+
+Key terms:
+GOES X‑ray flux; R‑scale (R1–R5); D‑region absorption.
+
+Typical values/units:
+Impacts scale from minor (R1) to extreme (R5), generally associated with flare classes from M to large X events.
+
+What you’ll see on maps/layers:
+Dayside absorption masks; flare timelines; sunlit hemisphere impact shading.
+
+Common misconceptions:
+“Blackouts affect the whole Earth.” Effects are strongest on the dayside and along HF paths.
+
+Related topics:
+Flares/CMEs; TEC; Scintillation.

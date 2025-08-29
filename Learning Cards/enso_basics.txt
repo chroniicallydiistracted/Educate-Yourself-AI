@@ -1,0 +1,23 @@
+# El Niño–Southern Oscillation (ENSO)
+One-sentence takeaway: Periodic warming/cooling of the tropical Pacific shifts global atmospheric circulation, altering temperature and rainfall patterns.
+
+What it is:
+Coupled ocean-atmosphere variability with El Niño (warm), La Niña (cool), and neutral phases.
+
+How it works:
+Trade-wind changes affect upwelling and thermocline slope; convection relocates, shifting jet streams and storm tracks.
+
+Key terms:
+Niño 3.4 index; Walker circulation; Teleconnections.
+
+Typical values/units:
+Indices in °C anomalies; durations months to seasons.
+
+What you’ll see on maps/layers:
+SST anomaly maps; shifted precipitation probabilities.
+
+Common misconceptions:
+“ENSO controls all weather.” It tilts probabilities; local factors still dominate events.
+
+Related topics:
+PDO; MJO; Seasonal outlooks.

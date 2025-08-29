@@ -1,0 +1,23 @@
+# Lagrange Points & Spacecraft Monitors (L1/L2)
+One-sentence takeaway: Spacecraft at gravitational balance points provide upstream solar‑wind data (L1) and deep‑space observation platforms (L2).
+
+What it is:
+Stable/semistable points in the Sun–Earth system where gravitational and centrifugal forces balance.
+
+How it works:
+L1 sits between Earth and Sun for upstream monitoring; L2 lies beyond Earth on the night side, ideal for astronomy with steady thermal environment.
+
+Key terms:
+L1; L2; DSCOVR/ACE/SOHO (L1); JWST (L2).
+
+Typical values/units:
+Distance ~1.5 million km from Earth for L1/L2.
+
+What you’ll see on maps/layers:
+Diagrams showing L1/L2 positions; data latency context (solar wind travel time tens of minutes).
+
+Common misconceptions:
+“Lagrange points are stationary points in space.” They co‑rotate with the Earth–Sun system; spacecraft use halo/Lissajous orbits.
+
+Related topics:
+Solar wind; EUV imagery; Ephemerides.

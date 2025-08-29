@@ -1,0 +1,20 @@
+# Watches, Warnings & Advisories (Concept)
+One-sentence takeaway: A watch highlights favorable conditions; a warning indicates an imminent or occurring hazard; advisories cover significant but lower-end impacts.
+
+What it is:
+Hazard communication categories used by meteorological services.
+
+How it works:
+Issued based on probability, lead time, and observed reports/radar signatures.
+
+Key terms:
+Severe thunderstorm/tornado watch vs warning; Flash flood watch vs warning.
+
+What you’ll see on maps/layers:
+Polygon overlays for active hazards; population and infrastructure layers for impact context.
+
+Common misconceptions:
+“Watch means it’s happening.” Watch = potential; Warning = occurring/imminent.
+
+Related topics:
+Nowcasting; Decision support; Risk categories.

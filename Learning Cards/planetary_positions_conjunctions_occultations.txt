@@ -1,0 +1,23 @@
+# Planetary Positions, Conjunctions & Occultations
+One-sentence takeaway: Apparent sky positions of planets follow predictable ephemerides, yielding conjunctions and occasional occultations.
+
+What it is:
+Geometric alignments as seen from Earth; elongation and opposition control visibility; occultations occur when the Moon or a planet passes in front of another.
+
+How it works:
+Orbital mechanics sets RA/Dec and altitude/azimuth vs time for any observer; conjunctions reflect small angular separations on the sky.
+
+Key terms:
+Elongation; Opposition; Conjunction; Occultation; Ephemeris.
+
+Typical values/units:
+Angular separations in degrees/arcminutes; times in UTC/local.
+
+What you’ll see on maps/layers:
+Sky charts with conjunction lines; horizon plots; per‑observer visibility windows.
+
+Common misconceptions:
+“Conjunctions mean close physically.” They are line‑of‑sight alignments.
+
+Related topics:
+Zodiacal light; Twilight; Lunar geometry.

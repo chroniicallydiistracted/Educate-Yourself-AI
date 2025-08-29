@@ -1,0 +1,23 @@
+# Geomagnetic Indices (Kp, Dst, AE) & Auroral Oval
+One-sentence takeaway: Indices summarize geomagnetic activity and help estimate auroral visibility and storm severity.
+
+What it is:
+Kp (0–9) gauges global activity; Dst (nT) measures ring-current strength (negative during storms); AE/AL/AU track high‑latitude electrojet variability. The auroral oval outlines typical aurora latitude for given activity.
+
+How it works:
+Solar-wind energy input intensifies currents and particle precipitation. Kp rises with global disturbance; Dst drops as the ring current strengthens; AE spikes during substorms.
+
+Key terms:
+Kp index; Dst (nT); AE/AL/AU; Auroral oval; Substorm.
+
+Typical values/units:
+Kp ≥5 = storm; Dst below −50 nT = storm-level; AE often >1000 nT during active substorms.
+
+What you’ll see on maps/layers:
+Live/forecast Kp; Dst curves; dynamic auroral oval maps; “visible-aurora” latitude bands.
+
+Common misconceptions:
+“Kp shows local aurora certainty.” It’s global—use latitude/time and cloud cover for local visibility.
+
+Related topics:
+IMF/Bz; Solar wind; Aurora physics.

@@ -1,0 +1,20 @@
+# Tides, Moon Phases & Eclipses
+One-sentence takeaway: Lunar/solar gravity drives ocean tides; the Moon’s synodic cycle sets phases; alignments produce eclipses.
+
+What it is:
+Spring/neap tides, the ~29.5-day lunar phase cycle, solar/lunar eclipses (geometry dependent).
+
+How it works:
+Tidal bulges track gravitational potential; phase depends on Sun–Earth–Moon angle; eclipses require near-nodal alignments.
+
+Key terms:
+Perigee/apogee; Umbra/penumbra; Saros (eclipse periodicity).
+
+What you’ll see on maps/layers:
+Tide predictions; lunar position/phase overlays; eclipse ground tracks.
+
+Common misconceptions:
+“Full Moon causes big tides by itself.” Spring tides require Sun and Moon alignment (new/full), plus local factors.
+
+Related topics:
+Oceanography; Astronomy basics.

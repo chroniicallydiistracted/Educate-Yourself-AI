@@ -1,0 +1,20 @@
+# Quantitative Precipitation Estimation (QPE)
+One-sentence takeaway: Radar, gauges, and satellites are blended to estimate rainfall; each sensor has biases that need correction.
+
+What it is:
+Methods to convert reflectivity and other signals into rain rate and accumulations.
+
+How it works:
+Z–R relationships, dual-pol (KDP-based rain), gauge adjustment, morphing satellite IR/microwave products.
+
+Key terms:
+Bright-band bias; Beam overshoot; Gauge undercatch.
+
+What you’ll see on maps/layers:
+Accumulation mosaics; uncertainty in complex terrain or far from radars.
+
+Common misconceptions:
+“Radar totals are exact.” They’re estimates, improved by multi-sensor merging.
+
+Related topics:
+Flood forecasting; Hydrology; Radar basics.

@@ -1,0 +1,23 @@
+# Coronal Holes & High-Speed Streams (HSS)
+One-sentence takeaway: Dark EUV regions with open magnetic fields emit fast solar wind that can trigger recurrent geomagnetic activity as the Sun rotates.
+
+What it is:
+Coronal holes are areas of low-density, open-field corona. They are sources of high-speed solar wind streams (HSS) that co-rotate with the Sun.
+
+How it works:
+Open field lines allow plasma to escape more freely, creating fast streams. Where fast wind overtakes slow wind, co-rotating interaction regions (CIRs) form and can enhance geomagnetic activity when they reach Earth.
+
+Key terms:
+HSS; CIR; Co-rotation; EUV dark regions.
+
+Typical values/units:
+HSS speeds commonly 500–800 km·s⁻¹ versus ambient ~300–400 km·s⁻¹.
+
+What you’ll see on maps/layers:
+EUV imagery showing coronal holes; predicted HSS arrival windows; Kp increases in recurrent patterns (~27‑day cadence).
+
+Common misconceptions:
+“Coronal holes are holes in the Sun.” They are magnetically open, not physical cavities.
+
+Related topics:
+Solar wind; IMF/Bz; Kp/Dst.

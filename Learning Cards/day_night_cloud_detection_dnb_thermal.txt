@@ -1,0 +1,23 @@
+# Day–Night Cloud Detection (DNB & Thermal Differencing)
+One-sentence takeaway: Night cloud detection relies on moonlight‑sensitive visible bands and thermal IR differences rather than daytime reflectance.
+
+What it is:
+Techniques using low‑light visible sensors (e.g., Day/Night Band) and thermal split‑window differences (e.g., 3.9–11 µm) to identify fog/low cloud at night.
+
+How it works:
+Under moonlight, DNB captures reflected light from clouds; thermal differences exploit emissivity/temperature contrasts between cloud and surface.
+
+Key terms:
+Day/Night Band (DNB); Split‑window; Nighttime microphysics RGB.
+
+Typical values/units:
+Signal depends on lunar phase/angle; thermal difference thresholds are sensor‑dependent.
+
+What you’ll see on maps/layers:
+Fog/low cloud detection composites; confidence masks; lunar illumination overlays.
+
+Common misconceptions:
+“If it’s dark, satellites can’t see clouds.” Low‑light sensors and thermal IR provide robust night detection.
+
+Related topics:
+GOES/ABI bands; Fog types; QPE limitations.

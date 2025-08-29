@@ -1,0 +1,24 @@
+# Layers of Earth’s Atmosphere
+One-sentence takeaway: The atmosphere is stratified by temperature structure and composition, each layer with distinct phenomena.
+
+What it is:
+Troposphere (weather), Stratosphere (ozone), Mesosphere (meteors), Thermosphere (aurora, ionosphere), Exosphere (outer transition).
+
+How it works:
+Temperature decreases with height in the troposphere, increases in the stratosphere due to ozone absorption, decreases again in the mesosphere, and increases in the thermosphere due to absorption of high-energy radiation.
+
+Key terms:
+Tropopause; Ozone layer; Ionosphere.
+
+Typical values/units:
+Troposphere depth ~8–15 km; stratosphere to ~50 km; mesosphere ~50–85 km; thermosphere above.
+
+What you’ll see on maps/layers:
+• Weather radars/satellites mostly sense troposphere/low stratosphere.
+• Auroral/space-weather layers correspond to thermosphere/ionosphere.
+
+Common misconceptions:
+“All clouds are low.” Deep convection can penetrate near the tropopause.
+
+Related topics:
+Stability; Jet streams; Space weather.

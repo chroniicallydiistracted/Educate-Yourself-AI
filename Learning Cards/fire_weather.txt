@@ -1,0 +1,20 @@
+# Fire Weather Basics
+One-sentence takeaway: Hot, dry, and windy conditions with receptive fuels drive rapid wildfire spread; terrain and stability modulate behavior.
+
+What it is:
+Meteorological and fuel factors influencing ignition/spread.
+
+How it works:
+Low humidity and high winds increase evaporation/oxygen supply; unstable layers and downslope winds accelerate spread; dry thunderstorms add ignition via lightning.
+
+Key terms:
+Red Flag conditions; Haines Index; Foehn/downslope winds.
+
+What you’ll see on maps/layers:
+Hot spots in 3.9 µm IR; smoke plumes; low RH/high wind overlays; GLM lightning over dry areas.
+
+Common misconceptions:
+“Calm nights are safe.” Nighttime inversions can trap smoke and then break with morning winds.
+
+Related topics:
+Air quality; Lightning; Drought.

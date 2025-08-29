@@ -1,0 +1,23 @@
+# Photosynthesis
+One-sentence takeaway: Plants, algae, and some bacteria convert CO₂ and water into sugars using light, releasing O₂.
+
+What it is:
+A biochemical process powering most food webs and drawing down atmospheric CO₂.
+
+How it works:
+Light reactions capture energy; Calvin cycle fixes carbon. Balanced reaction: 6 CO₂ + 6 H₂O + light → C₆H₁₂O₆ + 6 O₂.
+
+Key terms:
+Chlorophyll; Stomata; Carbon fixation.
+
+Typical values/units:
+Productivity in g C·m⁻²·yr⁻¹.
+
+What you’ll see on maps/layers:
+NDVI/vegetation greenness and phenology; surface flux models.
+
+Common misconceptions:
+“Plants only take in CO₂.” They also respire, especially at night.
+
+Related topics:
+Carbon cycle; Evapotranspiration.

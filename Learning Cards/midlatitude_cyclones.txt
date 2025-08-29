@@ -1,0 +1,23 @@
+# Midlatitude Cyclones & Frontogenesis
+One-sentence takeaway: Baroclinic waves along strong temperature gradients spawn cyclones that organize fronts and precipitation shields.
+
+What it is:
+Extratropical systems driven by horizontal temperature contrasts and jet dynamics.
+
+How it works:
+Jet-streak divergence aloft and surface frontogenesis intensify lows; warm conveyor belts feed moisture; wrap-around deformation zones create comma-head clouds.
+
+Key terms:
+QG forcing; Warm/cold conveyor belt; Deformation axis.
+
+Typical values/units:
+Central pressures often <1000 hPa in strong lows.
+
+What you’ll see on maps/layers:
+Comma clouds, broad stratiform rain/snow, dry slots in water-vapor imagery.
+
+Common misconceptions:
+“Only fronts cause precip.” Conveyor-belt ascent and isentropic lift are key.
+
+Related topics:
+Fronts; Jet streams; Snow types.

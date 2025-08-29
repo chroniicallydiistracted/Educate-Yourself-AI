@@ -1,0 +1,20 @@
+# Air Quality, Smoke & AQI
+One-sentence takeaway: Fine particles and gases affect health; AQI translates concentrations into impact categories.
+
+What it is:
+PM₂.₅/PM₁₀, ozone, NO₂, SO₂, CO.
+
+How it works:
+Emissions + chemistry + meteorology (stagnation/inversions) control concentrations; smoke plumes travel long distances.
+
+Key terms:
+PM₂.₅ (µg·m⁻³); AQI categories: Good (0–50), Moderate (51–100), Unhealthy for Sensitive Groups (101–150), Unhealthy (151–200), Very Unhealthy (201–300), Hazardous (301–500).
+
+What you’ll see on maps/layers:
+Aerosol optical depth; surface PM; smoke plume detection in satellite (VIS/IR).
+
+Common misconceptions:
+“Smoke is just a local issue.” Transport and lofting can affect distant regions.
+
+Related topics:
+Boundary layer; Fire weather; Health guidance.

@@ -1,0 +1,23 @@
+# Substorms & Auroral Dynamics
+One-sentence takeaway: Short, explosive energy releases in the magnetotail rapidly intensify and reshape aurora.
+
+What it is:
+A three‑phase process (growth, expansion, recovery) involving tail reconnection and auroral brightening/poleward expansion.
+
+How it works:
+Energy stored in the magnetotail is released, driving particle injections and enhanced ionospheric currents (AE/AL spikes).
+
+Key terms:
+Pi2 pulsations; Electrojet; Injection; Pseudobreakup.
+
+Typical values/units:
+Durations tens of minutes to a few hours; AE can exceed 1000 nT during active phases.
+
+What you’ll see on maps/layers:
+Keograms/time‑height summaries; oval expansion; AL/AE indices; westward traveling surges.
+
+Common misconceptions:
+“Substorm equals geomagnetic storm.” Substorms can occur without major global storms.
+
+Related topics:
+Kp/AE; Bz; Aurora emissions.

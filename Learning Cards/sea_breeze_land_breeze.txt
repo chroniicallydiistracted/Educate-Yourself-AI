@@ -1,0 +1,20 @@
+# Sea-Breeze & Land-Breeze Circulations
+One-sentence takeaway: Daily coast-parallel circulations form from differential heating between land and water, focusing storms along boundaries.
+
+What it is:
+Thermally driven mesoscale breezes.
+
+How it works:
+Daytime: onshore sea breeze with inland convergence; nighttime: reverse land breeze; boundaries trigger convection where they collide with other flows.
+
+Key terms:
+Convergence line; Collision boundary; Mesoscale.
+
+What you’ll see on maps/layers:
+Fine cloud lines in visible imagery; radar convergence boundaries; afternoon storms near coasts.
+
+Common misconceptions:
+“Sea breezes only cool.” They can also trigger strong storms.
+
+Related topics:
+Boundary layer; Thunderstorm initiation.

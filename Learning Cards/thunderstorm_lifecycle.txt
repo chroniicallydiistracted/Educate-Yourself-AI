@@ -1,0 +1,23 @@
+# Thunderstorm Lifecycle & Ingredients
+One-sentence takeaway: Storms grow, mature, and decay as rising moist air releases latent heat, then outflows cut off the updraft.
+
+What it is:
+The canonical cumulus → mature → dissipating stages.
+
+How it works:
+Lift + moisture + instability (CAPE) start towering cumulus; precipitation loading and downdrafts develop; gust fronts/outflow undercut updraft, ending the storm unless multicell/organized systems take over (e.g., squall lines, supercells with mesocyclones sustained by shear).
+
+Key terms:
+CAPE; CIN; LCL/LFC; Gust front; Mesocyclone; Anvil.
+
+Typical values/units:
+CAPE in J·kg⁻¹; updraft speeds ≈ √(2·CAPE).
+
+What you’ll see on maps/layers:
+Radar cores, overshooting tops (IR), outflow boundaries in visible imagery, lightning jumps in GLM.
+
+Common misconceptions:
+“All big reflectivity means hail.” Reflectivity depends on drop size/phase; dual-pol helps diagnose.
+
+Related topics:
+Severe hazards; Wind shear.

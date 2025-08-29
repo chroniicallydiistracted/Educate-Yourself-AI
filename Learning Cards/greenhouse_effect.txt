@@ -1,0 +1,23 @@
+# Greenhouse Effect
+One-sentence takeaway: Certain gases absorb and re-emit infrared radiation, warming the lower atmosphere and surface.
+
+What it is:
+A radiative property of the atmosphere involving water vapor, CO₂, CH₄, N₂O, and others.
+
+How it works:
+Sunlight (shortwave) largely passes through; the surface emits longwave IR absorbed by greenhouse gases, which re-emit in all directions, raising the effective emission height and surface temperature.
+
+Key terms:
+Radiative forcing; Longwave/shortwave; Window region; Feedback (e.g., water-vapor).
+
+Typical values/units:
+Radiation in W·m⁻²; temperature in K/°C.
+
+What you’ll see on maps/layers:
+IR satellite channels (10–12 µm) show cloud-top temps; greenhouse gases not directly visible on standard weather layers but affect temperature patterns.
+
+Common misconceptions:
+“Greenhouse gases block sunlight.” They primarily interact with outgoing longwave IR, not visible light.
+
+Related topics:
+Carbon cycle; Energy budget; Temperature trends.

@@ -1,0 +1,23 @@
+# CAPE, CIN & Atmospheric Stability
+One-sentence takeaway: CAPE measures buoyant energy for updrafts; CIN measures the energy barrier to initiation; lapse rates describe the stratification.
+
+What it is:
+Thermodynamic metrics from a vertical sounding.
+
+How it works:
+Parcels lifted dry-adiabatically to the LCL, then moist-adiabatically; integrate positive (CAPE) and negative (CIN) buoyancy areas.
+
+Key terms:
+Dry adiabatic lapse rate ≈ 9.8 °C·km⁻¹; Moist adiabatic ≈ ~4–7 °C·km⁻¹; LCL, LFC, EL.
+
+Typical values/units:
+CAPE J·kg⁻¹ (hundreds to several thousand); CIN J·kg⁻¹ (tens–hundreds).
+
+What you’ll see on maps/layers:
+CAPE/CIN analyses; steep mid-level lapse rates favor large hail; capping inversions delay initiation.
+
+Common misconceptions:
+“High CAPE guarantees storms.” You still need lift and sufficient moisture; CIN can suppress storms.
+
+Related topics:
+Soundings; Drylines; Jet dynamics.

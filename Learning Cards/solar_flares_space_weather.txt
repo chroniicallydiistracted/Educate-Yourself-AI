@@ -1,0 +1,23 @@
+# Solar Flares & Space Weather
+One-sentence takeaway: Explosive solar events emit radiation and particles that can disturb Earth’s upper atmosphere, communications, and power systems.
+
+What it is:
+Flares (electromagnetic bursts) and coronal mass ejections (CMEs: plasma/magnetic clouds) drive geomagnetic storms.
+
+How it works:
+X-ray/UV from flares ionizes the ionosphere; CMEs compress the magnetosphere; geomagnetic activity enhances auroras, can induce currents in long conductors.
+
+Key terms:
+Solar wind; CME; Geomagnetic storm; Kp index; Auroral oval.
+
+Typical values/units:
+Kp 0–9 index for global geomagnetic activity.
+
+What you’ll see on maps/layers:
+Auroral probability overlays; ionospheric disturbance indices.
+
+Common misconceptions:
+“Flares and CMEs are the same.” They’re related but distinct phenomena.
+
+Related topics:
+Thermosphere/ionosphere; Satellite comms.

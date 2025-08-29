@@ -1,0 +1,23 @@
+# Noctilucent Clouds (Polar Mesospheric Clouds)
+One-sentence takeaway: Very high‑altitude ice clouds near 80–85 km appear in summer twilight at high latitudes.
+
+What it is:
+Ice particles forming near the mesopause under very low temperatures; observed as bright, wispy structures after sunset/before sunrise.
+
+How it works:
+Water vapor and condensation nuclei allow ice formation under extreme cold; mesospheric dynamics and solar activity modulate occurrence.
+
+Key terms:
+PMC; Mesopause; Solar cycle modulation.
+
+Typical values/units:
+Altitudes ~80–85 km; seasonal windows centered on local summer at high latitudes.
+
+What you’ll see on maps/layers:
+Probability/occurrence maps; recent observation galleries; twilight geometry aids.
+
+Common misconceptions:
+“NLCs are tropospheric clouds.” They are mesospheric and unrelated to weather clouds.
+
+Related topics:
+Airglow; Gravity waves; Light pollution.

@@ -1,0 +1,23 @@
+# Tides: Spring/Neap, Perigee Effects & Storm Surge Context
+One-sentence takeaway: Astronomical tides modulate baseline sea level; phase and range can amplify or mitigate weather-driven surge.
+
+What it is:
+Semi‑diurnal/diurnal ocean tides forced by lunar/solar gravity; spring tides (new/full) have larger ranges, neap (quarter phases) smaller. Perigee increases tidal range.
+
+How it works:
+Constructive/destructive interference of tidal constituents and local resonance shape range; pairing with storm surge determines flood risk.
+
+Key terms:
+Syzygy; Tidal range; Perigean tides; Storm surge.
+
+Typical values/units:
+Tidal ranges vary by basin (cm to meters).
+
+What you’ll see on maps/layers:
+Tide predictions; spring/neap markers; surge model overlays; flood thresholds.
+
+Common misconceptions:
+“Supermoon alone causes flooding.” Surge, waves, and local geometry often dominate impacts.
+
+Related topics:
+Coastal flooding; Cyclones; Wave runup.

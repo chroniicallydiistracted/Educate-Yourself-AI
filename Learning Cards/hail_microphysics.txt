@@ -1,0 +1,20 @@
+# Hail Formation & Microphysics
+One-sentence takeaway: Strong, broad updrafts loft embryos through supercooled water, growing hailstones via accretion and wet/dry growth cycles.
+
+What it is:
+Microphysical process inside vigorous convection.
+
+How it works:
+Embryos (graupel/ice) cycle through updraft; wet growth at warmer subfreezing temps yields smoother, larger stones; dry growth produces opaque layers.
+
+Key terms:
+ZDR column; Three-body scatter spike (TBSS); Freezing level.
+
+What you’ll see on maps/layers:
+Very high reflectivity cores, low ZDR with high Z, TBSS artifacts, strong updraft indicators in satellite (overshooting tops).
+
+Common misconceptions:
+“Big hail means tornado.” They can co-occur but involve different dynamics.
+
+Related topics:
+CAPE/lapse rates; Severe hazards.

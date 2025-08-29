@@ -1,0 +1,23 @@
+# Proton Events & Polar Cap Absorption (PCA)
+One-sentence takeaway: Solar energetic proton events increase ionization at high latitudes, degrading HF comms via polar cap absorption.
+
+What it is:
+Elevated fluxes of >10 MeV protons from solar eruptions; operationally categorized (S‑scale) by intensity.
+
+How it works:
+Protons follow magnetic field lines into polar regions, enhancing D‑region ionization and absorbing HF signals; effects can persist hours to days.
+
+Key terms:
+SEP; PCA; S‑scale (S1–S5); >10 MeV proton flux.
+
+Typical values/units:
+Thresholds for S1 start at ~10 pfu (proton flux units); stronger events reach hundreds to thousands pfu.
+
+What you’ll see on maps/layers:
+Polar absorption masks; proton flux timelines; warnings for polar aviation routes.
+
+Common misconceptions:
+“Only flares cause PCA.” CME‑driven particle acceleration is a frequent driver.
+
+Related topics:
+R‑scale blackouts; Kp/Dst; Radiation belts.

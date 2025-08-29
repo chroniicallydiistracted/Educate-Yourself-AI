@@ -1,0 +1,23 @@
+# Eclipses (Solar/Lunar) & Transit Geometry
+One-sentence takeaway: Precise alignments of Sun, Moon, and Earth create eclipses with calculable paths, timings, and obscuration.
+
+What it is:
+Solar eclipses (Moon blocks Sun: total/annular/partial) and lunar eclipses (Earth’s shadow on Moon). Planetary transits are small bodies crossing the solar disk.
+
+How it works:
+Alignments near lunar nodes produce umbra/penumbra footprints; local contact times define event phases (C1–C4).
+
+Key terms:
+Umbra; Penumbra; Totality; Annularity; Saros series; Contact times (C1–C4).
+
+Typical values/units:
+Path widths and durations vary; totality often a few minutes at maximum.
+
+What you’ll see on maps/layers:
+Ground tracks; local obscuration %; contact times; safety notes for solar viewing (filters).
+
+Common misconceptions:
+“Annular equals total.” Annular leaves a bright ring (Moon smaller than Sun).
+
+Related topics:
+Twilight; Solar geometry; Tides (gravitational context).

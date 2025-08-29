@@ -1,0 +1,23 @@
+# Tropical Cyclones (Hurricanes/Typhoons)
+One-sentence takeaway: Warm-core rotating storms draw energy from ocean heat and moist convection, producing extreme wind, rain, and surge.
+
+What it is:
+Named storms organized around a low-pressure center; regional naming varies (hurricane/typhoon/cyclone).
+
+How it works:
+Surface fluxes + Coriolis → rotating convection; eyewall cycles and shear modulate intensity.
+
+Key terms:
+Eye/eyewall; Rapid intensification; Storm surge; Vertical shear.
+
+Typical values/units:
+Saffir-Simpson categories by 1-min sustained wind (mph): 1: 74–95, 2: 96–110, 3: 111–129, 4: 130–156, 5: ≥157.
+
+What you’ll see on maps/layers:
+Tight isobars, symmetric cold tops (IR), spiral rainbands, high precip rates, coastal surge models.
+
+Common misconceptions:
+“Category tells flood risk.” Category is wind-based; rainfall/surge impacts can exceed category.
+
+Related topics:
+Ocean heat content; Shear; Atmospheric rivers (remnants).

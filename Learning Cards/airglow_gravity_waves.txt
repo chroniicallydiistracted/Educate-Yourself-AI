@@ -1,0 +1,23 @@
+# Airglow & Mesospheric Gravity Waves
+One-sentence takeaway: Natural night-sky glow and wave patterns reveal upper‑atmospheric dynamics unrelated to city lights.
+
+What it is:
+Chemiluminescent emissions (e.g., OH airglow near ~85–90 km) modulated by atmospheric gravity waves that propagate from lower levels.
+
+How it works:
+Wave breaking and ducting shape ripples/bands visible in sensitive imagery; background chemistry and tides modulate brightness.
+
+Key terms:
+OH airglow; Gravity-wave propagation; Mesospheric inversion layer.
+
+Typical values/units:
+Wave wavelengths tens to hundreds of km; phase speeds tens of m·s⁻¹.
+
+What you’ll see on maps/layers:
+Nighttime imagery with rippled structures; conditions favoring visibility (clear, dark, low moonlight).
+
+Common misconceptions:
+“Airglow equals aurora.” Different mechanisms: chemiluminescence vs particle precipitation.
+
+Related topics:
+Noctilucent clouds; Ionosphere; Night-sky brightness.

@@ -1,0 +1,23 @@
+# Plate Tectonics
+One-sentence takeaway: Earth’s rigid lithosphere is fragmented into plates that move atop the ductile asthenosphere, building mountains, quakes, and volcanoes.
+
+What it is:
+The unifying theory explaining crustal motion via divergent, convergent, and transform boundaries.
+
+How it works:
+Mantle convection, slab pull, and ridge push drive plate motions. Interactions at boundaries form mid-ocean ridges, subduction zones, volcanic arcs, rifts, and transform faults.
+
+Key terms:
+Lithosphere; Asthenosphere; Subduction; Rift; Accretionary prism; Benioff zone.
+
+Typical values/units:
+Plate speeds: mm/yr to cm/yr scale.
+
+What you’ll see on maps/layers:
+Seismicity belts, volcanic arcs, topography/bathymetry ridges/trenches; gravity anomalies.
+
+Common misconceptions:
+“Continents plow through oceanic crust.” In reality, whole plates move; oceanic crust is created/destroyed, continental is long-lived.
+
+Related topics:
+Earthquakes; Volcanoes; Rock cycle.

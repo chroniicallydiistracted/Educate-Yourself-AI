@@ -1,0 +1,23 @@
+# Ionospheric TEC & Scintillation
+One-sentence takeaway: Total Electron Content (TEC) controls GPS signal delay; small‑scale irregularities cause scintillation and outages.
+
+What it is:
+Column-integrated electron density (TECU = 10¹⁶ electrons·m⁻²) and rapid amplitude/phase fluctuations (scintillation) that degrade radio links.
+
+How it works:
+Solar EUV and geomagnetic forcing set background TEC; traveling disturbances and equatorial spread‑F create irregularities that scatter radio waves, increasing errors or loss of lock.
+
+Key terms:
+TECU; foF2; ROTI; S4 index; Phase scintillation (σφ).
+
+Typical values/units:
+Mid‑latitude TEC typically ~5–30 TECU; equatorial anomaly regions can exceed 50+ TECU.
+
+What you’ll see on maps/layers:
+Global/continental TEC maps; ROTI/scintillation hotspots; day–night and storm‑time asymmetries.
+
+Common misconceptions:
+“High TEC always means bad GPS.” High, smooth TEC mainly adds delay; irregularities drive outages.
+
+Related topics:
+F10.7; Kp/AE; GNSS accuracy.

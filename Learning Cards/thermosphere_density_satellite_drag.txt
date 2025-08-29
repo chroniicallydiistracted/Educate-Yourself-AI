@@ -1,0 +1,23 @@
+# Thermosphere Density & Satellite Drag
+One-sentence takeaway: Geomagnetic heating increases thermospheric density and satellite drag, accelerating orbital decay.
+
+What it is:
+The upper-atmospheric density (roughly 150–600 km) that sets aerodynamic drag on low‑Earth‑orbit spacecraft.
+
+How it works:
+Enhanced EUV and geomagnetic energy input raise exospheric temperature, expanding the thermosphere and increasing density at a given altitude. Drag scales with density and velocity squared.
+
+Key terms:
+Ballistic coefficient; Exospheric temperature; JB2008/NRLMSISE models.
+
+Typical values/units:
+Density changes can be factors of 2–10 at LEO altitudes during storms; drag acceleration in m·s⁻² depends on spacecraft properties.
+
+What you’ll see on maps/layers:
+Storm-time “drag multiplier” overlays vs quiet baseline; altitude‑dependent density estimates.
+
+Common misconceptions:
+“Only very low satellites are affected.” Even ~400–500 km orbits can experience notable decay during strong storms.
+
+Related topics:
+Kp/Dst; EUV/F10.7; Radiation belts.

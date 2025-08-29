@@ -1,0 +1,23 @@
+# Ocean Currents
+One-sentence takeaway: Wind-driven and density-driven flows move heat, salt, and nutrients, strongly shaping climate.
+
+What it is:
+Surface gyres (wind/Ekman), boundary currents (e.g., Gulf Stream), and deep thermohaline circulation.
+
+How it works:
+Surface winds + Coriolis → gyres; heat/salinity changes → density gradients → deep overturning.
+
+Key terms:
+Ekman transport; Western boundary current; Upwelling; Thermohaline.
+
+Typical values/units:
+Surface speeds up to ~1–2 m·s⁻¹ in strong boundary currents.
+
+What you’ll see on maps/layers:
+SST gradients; altimetry-derived eddies; ocean color (chlorophyll) indicating upwelling.
+
+Common misconceptions:
+“Currents only follow wind.” Density structure and bathymetry matter.
+
+Related topics:
+ENSO; Atmospheric rivers (air–sea coupling).

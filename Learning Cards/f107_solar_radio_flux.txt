@@ -1,0 +1,23 @@
+# F10.7 cm Solar Radio Flux
+One-sentence takeaway: The 10.7 cm (2800 MHz) radio flux is a stable proxy for solar EUV output and overall activity.
+
+What it is:
+A daily measurement of solar radio emission at 10.7 cm wavelength. It correlates with solar EUV irradiance and thermospheric/ionospheric heating.
+
+How it works:
+Enhanced magnetic activity increases gyro-resonance and bremsstrahlung radio emissions. F10.7 tracks active regions and the solar cycle, aiding ionospheric and thermospheric models.
+
+Key terms:
+Solar flux unit (sfu = 10⁻²² W·m⁻²·Hz⁻¹); EUV; Ionospheric heating.
+
+Typical values/units:
+Quiet Sun ~65–75 sfu; active conditions often >120 sfu; values >200 sfu indicate strong activity.
+
+What you’ll see on maps/layers:
+Daily F10.7 plots and 81‑day running means; regime bands for low/medium/high activity; model inputs for TEC/thermosphere density.
+
+Common misconceptions:
+“F10.7 directly measures flares.” It is a broadband proxy of activity, not a flare detector.
+
+Related topics:
+Sunspot number; TEC; Thermosphere density.

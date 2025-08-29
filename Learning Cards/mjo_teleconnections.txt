@@ -1,0 +1,20 @@
+# Madden–Julian Oscillation (MJO) & Teleconnections
+One-sentence takeaway: A 30–60-day tropical disturbance propagates eastward, modulating convection and influencing midlatitude weather.
+
+What it is:
+Large-scale envelope of enhanced/suppressed tropical rainfall.
+
+How it works:
+Convective coupling with equatorial waves affects jet streams and storm tracks downstream.
+
+Key terms:
+RMM phases; Intraseasonal variability.
+
+What you’ll see on maps/layers:
+Outgoing longwave radiation (OLR) anomalies; phase-dependent pattern shifts.
+
+Common misconceptions:
+“MJO predicts exact storms.” It shifts odds over weeks, not deterministic daily forecasts.
+
+Related topics:
+ENSO; Subseasonal outlooks.

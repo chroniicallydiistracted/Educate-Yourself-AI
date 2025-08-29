@@ -1,0 +1,20 @@
+# Fog Types & Visibility
+One-sentence takeaway: Fog forms when air near the surface reaches saturation by cooling, moisture addition, or mixing.
+
+What it is:
+Radiation fog, advection fog, upslope fog, steam fog.
+
+How it works:
+Nocturnal cooling under clear, calm conditions; moist advection over cooler surfaces; orographic lift; mixing to saturation.
+
+Key terms:
+Lifting condensation level; Dew point; Visibility thresholds.
+
+What you’ll see on maps/layers:
+Nighttime microphysics RGB; 3.9–11 µm difference; surface obs visibility drops.
+
+Common misconceptions:
+“Fog is just low cloud.” It is a cloud at the ground, but formation pathways vary.
+
+Related topics:
+Inversions; Aviation weather.

@@ -1,0 +1,35 @@
+# GOES-R ABI Bands Cheat Sheet
+One-sentence takeaway: Sixteen spectral bands span visible, near-IR, and IR to diagnose clouds, moisture, surface features, and severe storms.
+
+What it is:
+Bands 1–6 (vis/NIR), 7–16 (IR). Typical nadir resolution: Band 2 ~0.5 km; Bands 1,3–6 ~1 km; Bands 7–16 ~2 km.
+
+How it works (selected uses):
+1) 0.47 µm Blue—haze/aerosols
+2) 0.64 µm Red—fine detail, daytime clouds/land
+3) 0.86 µm Veg—vegetation, cloud edges
+4) 1.37 µm Cirrus—thin cirrus
+5) 1.6 µm Snow/Ice—discriminate snow/ice vs cloud
+6) 2.2 µm Cloud-phase/fire hot spots
+7) 3.9 µm Shortwave IR—night fog/low cloud, fires
+8) 6.2 µm Upper-level water vapor
+9) 6.9 µm Mid-level water vapor
+10) 7.3 µm Low-level water vapor
+11) 8.4 µm Cloud-top microphysics
+12) 9.6 µm Ozone
+13) 10.3 µm “Clean” IR window—severe convection
+14) 11.2 µm IR window—general cloud-top temp
+15) 12.3 µm Split-window—low-level moisture/dust
+16) 13.3 µm CO₂—cloud-top height/pressure
+
+Key terms:
+Parallax; Geocolor composites; Split-window.
+
+What you’ll see on maps/layers:
+Convective vigor (Band 13 cold tops), fog at night (3.9–11 µm difference), thin cirrus masks (1.37 µm).
+
+Common misconceptions:
+“Colder always means stronger.” Cold cloud tops indicate height, not necessarily severe at ground without dynamics.
+
+Related topics:
+Radar; Lightning/GLM; Stability.

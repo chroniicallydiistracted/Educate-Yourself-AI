@@ -1,0 +1,23 @@
+# Solar Wind at L1 (Speed, Density, Temperature)
+One-sentence takeaway: Upstream solar-wind conditions measured near L1 determine the near-term energy input to Earth’s magnetosphere.
+
+What it is:
+Plasma parameters measured by spacecraft near the Sun–Earth L1 point (~1.5 million km upstream): bulk speed, proton density, temperature, and dynamic pressure.
+
+How it works:
+Higher speed/density/pressure increase magnetospheric compression; combined with southward IMF Bz, they drive stronger geomagnetic responses.
+
+Key terms:
+Dynamic pressure (nPa); Proton density (cm⁻³); Bulk speed (km·s⁻¹); Plasma beta.
+
+Typical values/units:
+Speed ~300–800 km·s⁻¹; density ~1–20 cm⁻³; dynamic pressure typically ~1–5 nPa.
+
+What you’ll see on maps/layers:
+Time series for speed/density/temperature/pressure with threshold shading; nowcast arrows indicating expected magnetospheric response.
+
+Common misconceptions:
+“High speed alone guarantees storms.” Coupling efficiency depends strongly on IMF orientation (Bz).
+
+Related topics:
+IMF/Bz; Magnetopause stand‑off; Kp/Dst.

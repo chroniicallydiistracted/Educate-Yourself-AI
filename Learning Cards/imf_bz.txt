@@ -1,0 +1,23 @@
+# Interplanetary Magnetic Field (IMF) & Bz
+One-sentence takeaway: Sustained southward IMF Bz enhances dayside reconnection and is the single most important parameter for storm strength.
+
+What it is:
+The magnetic field embedded in the solar wind, measured at L1 and decomposed into components (Bx, By, Bz) in GSM/GSE coordinates. Bz < 0 (southward) is geoeffective.
+
+How it works:
+Southward Bz opposes Earth’s northward geomagnetic field at the dayside magnetopause, enabling magnetic reconnection and energy transfer into the magnetosphere–ionosphere system.
+
+Key terms:
+nT (nanotesla); Clock angle; Reconnection; GSM coordinates.
+
+Typical values/units:
+Bz swings from positive to negative; sustained Bz ≤ −5 to −10 nT for hours often heralds strong storms.
+
+What you’ll see on maps/layers:
+Real-time Bx/By/Bz and clock-angle plots; risk bars highlighting prolonged southward Bz episodes.
+
+Common misconceptions:
+“Any negative Bz triggers a big storm.” Duration and magnitude both matter, as does solar-wind speed/pressure.
+
+Related topics:
+Solar wind; Kp/Dst; Auroral oval.

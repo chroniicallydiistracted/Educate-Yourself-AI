@@ -1,0 +1,22 @@
+# Snow, Sleet, Freezing Rain & Ratios
+One-sentence takeaway: Precip type depends on the vertical temperature profile; small “warm noses” aloft can flip snow to sleet/freezing rain.
+
+What it is:
+• Snow: all subfreezing column.
+• Sleet (ice pellets): melts aloft, refreezes in deep cold near surface.
+• Freezing rain: melts aloft, shallow near-surface subfreezing layer → supercooled liquid freezes on contact.
+
+How it works:
+Thermal layers and depth control phase changes; snow-to-liquid ratio varies widely (not always 10:1).
+
+Key terms:
+Warm nose; Wet-bulb; Dendritic growth zone.
+
+What you’ll see on maps/layers:
+Dual-pol phase hints; model cross-sections; freezing rain accretion forecasts.
+
+Common misconceptions:
+“10:1 applies everywhere.” Ratios depend on temperature and microphysics.
+
+Related topics:
+Fronts; Soundings; Road impacts.

@@ -1,0 +1,23 @@
+# Lunar Geometry: Distance, Libration & Illumination
+One-sentence takeaway: The Moon’s distance varies (perigee/apogee), and libration reveals slightly different lunar faces; illumination sets phase.
+
+What it is:
+Orbital eccentricity changes apparent size and brightness; libration in longitude/latitude tilts the visible disk; phase is the Sun‑Moon‑Earth angle.
+
+How it works:
+Elliptical orbit and axial tilt cause cyclic distance and viewing geometry changes; illumination fraction depends on phase angle.
+
+Key terms:
+Perigee/apogee; Libration; Phase angle; Illumination %.
+
+Typical values/units:
+Distance ~356,000–406,000 km; illumination 0–100% across synodic month (~29.5 days).
+
+What you’ll see on maps/layers:
+Per‑date distance/phase/libration plots; “supermoon/micromoon” flags; rise/set times.
+
+Common misconceptions:
+“Supermoon drastically changes tides weather.” Tidal range changes are modest; weather impacts are indirect.
+
+Related topics:
+Tides; Planetary positions; Night‑sky brightness.

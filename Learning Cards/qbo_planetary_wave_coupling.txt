@@ -1,0 +1,23 @@
+# Planetary Waves & Quasi‑Biennial Oscillation (QBO) (Concept)
+One-sentence takeaway: Alternating easterly/westerly winds in the tropical stratosphere modulate global circulation and can nudge seasonal patterns.
+
+What it is:
+A ~28‑month oscillation of equatorial stratospheric winds (QBO) interacting with planetary waves and affecting downstream weather probabilities.
+
+How it works:
+Wave–mean flow interactions propagate shear zones downward; phase influences vertical coupling and teleconnections in the extratropics.
+
+Key terms:
+QBO‑E/QBO‑W; 30 hPa index; Stratosphere–troposphere coupling.
+
+Typical values/units:
+Phase durations months to a couple of years; indices in m·s⁻¹ at standard levels (e.g., 30 hPa).
+
+What you’ll see on maps/layers:
+QBO phase timelines; conceptual impact panels on jet latitude/storm tracks.
+
+Common misconceptions:
+“QBO predicts specific storms.” It modulates probabilities, not deterministic events.
+
+Related topics:
+ENSO; MJO; Seasonal outlooks.

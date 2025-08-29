@@ -1,0 +1,23 @@
+# Aurora Physics: Emission Lines & Colors
+One-sentence takeaway: Auroral colors arise from specific atmospheric emissions at characteristic altitudes and particle energies.
+
+What it is:
+Visible emissions from oxygen and nitrogen excited by precipitating particles along magnetic field lines.
+
+How it works:
+Electron/proton precipitation excites species that emit at key wavelengths as they return to lower energy states—green 557.7 nm O (~100–150 km), red 630.0 nm O (~200–300 km), blue/violet bands from N₂⁺ (~427.8 nm).
+
+Key terms:
+Discrete vs diffuse aurora; Precipitating electrons/protons; Emission altitude.
+
+Typical values/units:
+Altitude bands (km); Wavelengths (nm).
+
+What you’ll see on maps/layers:
+Auroral oval with color legend; altitude strips; example spectra/imagery for public education.
+
+Common misconceptions:
+“All green aurora is the same height.” Heights vary with composition, energy, and local conditions.
+
+Related topics:
+Kp/AE; Substorms; Ionosphere.

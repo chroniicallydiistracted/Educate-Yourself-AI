@@ -1,0 +1,23 @@
+# Magnetopause & Bow Shock Stand‑off Distance
+One-sentence takeaway: Solar‑wind pressure compresses Earth’s magnetosphere; the subsolar magnetopause distance shrinks during disturbances.
+
+What it is:
+Boundaries where the solar wind slows and diverts (bow shock) and where solar‑wind/magnetospheric pressure balance (magnetopause).
+
+How it works:
+Pressure balance sets stand‑off distances; increases in solar‑wind dynamic pressure move boundaries Earthward.
+
+Key terms:
+Subsolar magnetopause; Dynamic pressure; Shue model (concept).
+
+Typical values/units:
+Quiet subsolar magnetopause near ~10 Earth radii (Re), but variable with pressure and IMF.
+
+What you’ll see on maps/layers:
+Estimated stand‑off vs pressure plots; GEO orbit ring for context; alerts when compression risks GEO.
+
+Common misconceptions:
+“Distance depends only on speed.” It depends on density, speed (pressure), and IMF conditions.
+
+Related topics:
+Solar wind; Bz; Geospace hazards.

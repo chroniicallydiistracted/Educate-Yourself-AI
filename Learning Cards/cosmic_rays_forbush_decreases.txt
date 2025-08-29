@@ -1,0 +1,23 @@
+# Cosmic Rays & Forbush Decreases
+One-sentence takeaway: Galactic cosmic‑ray flux at Earth varies with solar activity; sudden drops (Forbush decreases) follow CME passages.
+
+What it is:
+High‑energy particles from outside the solar system modulated by the heliospheric magnetic field and solar wind.
+
+How it works:
+Stronger solar wind and magnetic turbulence during active periods scatter and exclude cosmic rays, reducing counts; CME‑driven disturbances cause rapid, temporary decreases measured by neutron monitors.
+
+Key terms:
+GCR; Modulation potential; Neutron monitor count rate; Forbush decrease.
+
+Typical values/units:
+Count rates are relative to station baselines; decreases a few percent to >10% during significant events.
+
+What you’ll see on maps/layers:
+Station time series; annotated events; correlations with Kp/Dst and CME arrivals.
+
+Common misconceptions:
+“Cosmic rays always drop during any flare.” It’s the interplanetary disturbance that drives the decrease.
+
+Related topics:
+Solar cycle; CMEs; Radiation environment.

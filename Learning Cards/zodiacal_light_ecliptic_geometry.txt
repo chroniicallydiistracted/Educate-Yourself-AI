@@ -1,0 +1,23 @@
+# Zodiacal Light & Ecliptic Geometry
+One-sentence takeaway: Sunlight scattering off interplanetary dust creates a faint cone along the ecliptic, best seen in dark, clear skies.
+
+What it is:
+A diffuse night-sky glow aligned with the ecliptic plane; the gegenschein is an antisolar brightening.
+
+How it works:
+Forward scattering by dust grains enhances brightness near the Sun’s direction after dusk/before dawn; geometry with the ecliptic controls visibility by season and latitude.
+
+Key terms:
+Ecliptic plane; Elongation; Gegenschein.
+
+Typical values/units:
+Surface brightness in mag·arcsec⁻² (faint; easily drowned by light pollution or moonlight).
+
+What you’ll see on maps/layers:
+Ecliptic path overlays; seasonal visibility windows; light‑pollution masks; moon position/phase.
+
+Common misconceptions:
+“Zodiacal light is the Milky Way.” They can be confused by new observers.
+
+Related topics:
+Twilight geometry; Light pollution; Planetary positions.

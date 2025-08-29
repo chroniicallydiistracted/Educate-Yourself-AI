@@ -1,0 +1,20 @@
+# Jet Streaks & Cyclogenesis
+One-sentence takeaway: Local maxima in jet speed (streaks) create ageostrophic circulations that favor rising/sinking motion and storm development.
+
+What it is:
+Dynamics within the larger jet stream.
+
+How it works:
+Left-exit/right-entrance regions promote upper divergence → surface pressure falls; opposite quadrants favor subsidence.
+
+Key terms:
+Divergence/convergence aloft; Q-vector; Potential vorticity (PV).
+
+What you’ll see on maps/layers:
+200–300 hPa isotachs; water-vapor dry slots; surface cyclogenesis.
+
+Common misconceptions:
+“Stronger jet always means stronger surface wind.” Location relative to streak quadrants matters more.
+
+Related topics:
+Fronts; Midlatitude cyclones.

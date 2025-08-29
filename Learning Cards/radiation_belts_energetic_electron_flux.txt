@@ -1,0 +1,23 @@
+# Radiation Belts & Energetic Electron Flux
+One-sentence takeaway: Trapped radiation in the Van Allen belts intensifies during storms, threatening satellite electronics.
+
+What it is:
+Two primary belts (inner, outer) of trapped particles, with MeV‑range electron enhancements during geomagnetic activity.
+
+How it works:
+Wave–particle interactions and injections accelerate and scatter electrons; slot region between belts can fill during strong events.
+
+Key terms:
+Van Allen belts; MeV electrons; Slot region; PSD (phase‑space density).
+
+Typical values/units:
+Fluxes reported by energy channels (keV–MeV); hazard thresholds vary by orbit and hardware tolerance.
+
+What you’ll see on maps/layers:
+Electron flux timelines; storm‑time enhancement flags; orbit‑dependent risk overlays.
+
+Common misconceptions:
+“All radiation effects are from protons.” Electrons are a major contributor in GEO/MEO hazards.
+
+Related topics:
+Kp/Dst; SEP events; Thermosphere density.

@@ -1,0 +1,23 @@
+# Boundary Layer & Inversions
+One-sentence takeaway: The lowest atmosphere mixes during the day and often caps with a stable inversion at night, shaping fog, pollution, and convection.
+
+What it is:
+The planetary boundary layer (PBL) responds quickly to surface heating/cooling and roughness.
+
+How it works:
+Daytime convective mixing deepens PBL; nocturnal radiative cooling creates surface inversions; synoptic subsidence can build elevated inversions (caps).
+
+Key terms:
+Mixing height; Residual layer; Stable/neutral/unstable.
+
+Typical values/units:
+Mixing depth: hundreds of meters to a few km depending on heating/terrain.
+
+What you’ll see on maps/layers:
+Fog/low stratus in visible/IR; trapped smoke/PM; temperature jumps across inversions in soundings.
+
+Common misconceptions:
+“Inversions only happen in winter.” They’re common year-round under clear, calm nights.
+
+Related topics:
+Air quality; CAPE/CIN; Sea breezes.
