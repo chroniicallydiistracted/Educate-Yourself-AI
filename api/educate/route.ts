@@ -1,6 +1,13 @@
 // app/api/educate/route.ts
 import { NextRequest, NextResponse } from "next/server";
 
+export async function GET() {
+  return NextResponse.json(
+    { ok: true, message: "educate endpoint is live" },
+    { status: 200 }
+  );
+}
+
 export async function POST(req: NextRequest) {
   try {
     const { userQuestion, mapState, retrievedSnippets } = await req.json();
@@ -42,7 +49,11 @@ export async function POST(req: NextRequest) {
     const answer = data?.choices?.[0]?.message?.content ?? "";
     return NextResponse.json({ answer }, { status: 200 });
 
-  } catch (err: any) {
-    return NextResponse.json({ error: "Bad request", details: String(err?.message || err) }, { status: 400 });
+  } catch (err: unknown) {
+    const details = err instanceof Error ? err.message : String(err);
+    return NextResponse.json(
+      { error: "Bad request", details },
+      { status: 400 }
+    );
   }
 }
